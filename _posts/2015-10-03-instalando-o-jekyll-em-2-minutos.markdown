@@ -9,7 +9,7 @@ O Jekyll é um gerador de páginas estáticas simples com um grande leque de apl
 
 Conheça melhor acessando o [site do projeto](http://jekyllrb.com/). A instalação é simples quando estamos em ambiente Linux ou Mac, bastando instalar a GEM jekyll e funcionará numa boa. O problema é quando precisamos rodar em plataforma Windows.
 
-Depois de muito tempo perdido, encontrei a mais simples combinação de dependências e sem depender do Dev Toolkit do Ruby. Preparei um arquivo ".bat" para automatizar o processo de verificação e instalação das dependências. Você encontra na minha página do Github.
+Depois de muito tempo perdido, encontrei a mais simples combinação de dependências e sem depender do Dev Toolkit do Ruby. Preparei um arquivo ".bat" para automatizar o processo de verificação e instalação das dependências. Você encontra na minha página do Github: [github.com/rafaheringer/rafaheringer.github.io/tree/master/_setup](https://github.com/rafaheringer/rafaheringer.github.io/tree/master/_setup)
 
 Dependências
 -------------------

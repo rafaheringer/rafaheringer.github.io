@@ -16,3 +16,6 @@ markdown: kramdown
 permalink: /blog/:title.html
 paginate_path: /page:num
 timezone: America/Sao_Paulo
+
+# Handling Reading
+exclude: ["_setup"]
