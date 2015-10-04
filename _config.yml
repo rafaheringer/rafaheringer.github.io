@@ -1,0 +1,18 @@
+# Site settings
+title: Rafa Heringer
+email: rafaheringer@live.com
+description: > # this means to ignore newlines until "baseurl:"
+  Desenvolvedor front-end apaixonado por robôs, cervejas e agilidade.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://rafaheringer.github.io" # the base hostname & protocol for your site
+twitter_username: rafa_heringer
+highlighter: rouge
+github_username:  rafaheringer
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+permalink: /blog/:title.html
+paginate_path: /page:num
+timezone: America/Sao_Paulo
