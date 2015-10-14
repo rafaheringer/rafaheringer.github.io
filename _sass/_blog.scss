@@ -1,0 +1,19 @@
+.blog-home-section {
+	
+}
+
+.post-box {
+	.post-box-link {
+		display: block;
+		width: 100%;
+		height: 90px;
+		background: rgba(255,255,255,0.04);
+		padding:15px;
+		
+		&:hover {
+			text-decoration: none;
+			background: rgba(255,255,255,1);
+			color: $theme-dark;
+		}
+	}
+}

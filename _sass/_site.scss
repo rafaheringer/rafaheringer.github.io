@@ -154,7 +154,7 @@ aside {
 
 // Homepage Header
 
-header {
+#home-header {
     position: relative;
     width: 100%;
     min-height: auto;
@@ -357,3 +357,5 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: $theme-dark;
 }
+
+@import "blog";
